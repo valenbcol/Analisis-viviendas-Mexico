@@ -4,7 +4,7 @@ library(tidyverse)
 library(ggplot2)
 library(readxl)
 
-setwd("C:/Documents/ME-UNLP/Curso Inicial/Instrumentos Computacionales/R/")
+setwd("C:/Documents/ME-UNLP/Curso Inicial/SIC/R")
 
 ################################Punto 1#########################################
 
